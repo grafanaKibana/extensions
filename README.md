@@ -14,8 +14,8 @@ The major functional areas this repo addresses are:
 - Testing: Dramatically simplifies testing around common .NET abstractions such as ILogger and the TimeProvider.
 
 [![Build Status](https://dev.azure.com/dnceng-public/public/_apis/build/status%2Fdotnet%2Fextensions%2Fextensions-ci?branchName=main)](https://dev.azure.com/dnceng-public/public/_build/latest?definitionId=16&branchName=main)
-[![Help Wanted](https://img.shields.io/github/issues/dotnet/extensions/help%20wanted?style=flat-square&color=%232EA043&label=help%20wanted)](https://github.com/dotnet/extensions/labels/help%20wanted)
-[![Discord](https://img.shields.io/discord/732297728826277939?style=flat-square&label=Discord&logo=discord&logoColor=white&color=7289DA)](https://aka.ms/dotnet-discord)
+<a href="https://github.com/dotnet/extensions/labels/help%20wanted"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/label-issues/dotnet/extensions/help%20wanted/open.svg?variant=outline&amp;size=sm&amp;font=geist&amp;label=help%20wanted&amp;split=true&amp;mode=dark"><img alt="Help Wanted" src="https://shieldcn.dev/github/label-issues/dotnet/extensions/help%20wanted/open.svg?variant=outline&amp;size=sm&amp;font=geist&amp;label=help%20wanted&amp;split=true&amp;mode=light"></picture></a>
+<a href="https://aka.ms/dotnet-discord"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/discord/732297728826277939.svg?variant=branded&amp;size=sm&amp;font=geist&amp;logo=discord&amp;logoColor=white&amp;color=7289DA&amp;label=Discord&amp;split=true&amp;mode=dark"><img alt="Discord" src="https://shieldcn.dev/discord/732297728826277939.svg?variant=branded&amp;size=sm&amp;font=geist&amp;logo=discord&amp;logoColor=white&amp;color=7289DA&amp;label=Discord&amp;split=true&amp;mode=light"></picture></a>
 
 ## How can I contribute?
 
